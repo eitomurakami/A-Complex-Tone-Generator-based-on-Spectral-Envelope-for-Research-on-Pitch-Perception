@@ -1,0 +1,17 @@
+gain 3.5;
+peak F4;
+compnum 6;
+compratio 1.49830707688;
+ratio 1.49830707688;
+
+rest -;
+1000 note 0;
+1000 note 4;
+1000 rest -;
+1000 note 0;
+1000 note 4;
+1000 rest -;
+1000 note 0;
+1000 note 4;
+1000 rest -;
+6000;
